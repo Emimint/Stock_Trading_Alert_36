@@ -1,0 +1,5 @@
+
+.gitattributes
+.DS_Store
+*.xml
+.project_config
